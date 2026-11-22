@@ -32,26 +32,11 @@ Currently working with **Go**, exploring **Cloud Native technologies**, and lear
 | AI Engineering | LLM applications, agents and AI infrastructure |
 | Developer Experience | Documentation, SDKs, tutorials and tooling |
 
-## FEATURED PROJECT
 
-### Session Bridge
-
-A voice-first AI coding-session handoff concept built for the WeMakeDevs × Wispr Flow hackathon.
-
-Exploring how developers can preserve coding context, decisions and progress when transitioning between development sessions.
 
 **Interests:** AI-powered development workflows · Developer productivity · Context preservation
 
-## OPEN SOURCE & COMMUNITIES
 
-Actively preparing to contribute and collaborate across the open-source ecosystem.
-
-- [CNCF](https://www.cncf.io/) — Cloud Native Computing Foundation
-- [Kubernetes](https://github.com/kubernetes/kubernetes) — Container orchestration
-- [OpenTelemetry](https://github.com/open-telemetry) — Observability
-- [Prometheus](https://github.com/prometheus/prometheus) — Monitoring and metrics
-- [WeMakeDevs](https://wemakedevs.org/) — Developer community
-- [Linux Foundation LFX](https://lfx.linuxfoundation.org/) — Open-source mentorship
 
 ## BEYOND THE CODE
 
